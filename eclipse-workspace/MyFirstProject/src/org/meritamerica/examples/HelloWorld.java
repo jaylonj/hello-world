@@ -1,7 +1,6 @@
 package org.meritamerica.examples;
 
 public class HelloWorld {
-
 	public static void main(String[] args) {
 		String myName = "Jaylon";
 		//A primitive variable
@@ -33,7 +32,7 @@ public class HelloWorld {
 		}
 		System.out.println ("The min value is " + min);
 		
+		// TODO Auto-generated method stub
 		System.out.println ("Hello World. I am "+myName+". I am a learner at Merit America!");
 	}
-
 }
